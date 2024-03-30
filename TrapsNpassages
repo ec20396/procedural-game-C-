@@ -1,6 +1,4 @@
 
-// remove this text and write your name here
-
 #include <iostream>
 #include <fstream>
 #include<string>
